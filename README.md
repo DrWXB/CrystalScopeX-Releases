@@ -102,7 +102,7 @@ files.
   exported PNG metadata.
 - CrystalScopeX contains no telemetry or network client.
 
-## Using CrystalScopeX with ORCA
+## Using CrystalScopeX with ORCA<sup>2,3</sup>
 
 If you already use ORCA, CrystalScopeX can connect to a compatible installation
 that you select locally. ORCA is not included, and CrystalScopeX does not
@@ -160,8 +160,13 @@ the cited publication.
 - **DOI:** [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w)
 - **Article link:** [Strongly reducing magnesium(0) complexes](https://www.nature.com/articles/s41586-021-03401-w)
 
-**Reference**
+**References**
 
 1. Rösch, B.; Gentner, T. X.; Eyselein, J.; Langer, J.; Elsen, H.; Harder, S.
    Strongly Reducing Magnesium(0) Complexes. *Nature* **2021**, *592*, 717–721.
    DOI: [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w).
+2. Neese, F. The ORCA Program System. *WIREs Comput. Mol. Sci.* **2012**, *2*,
+   73–78. DOI: [10.1002/wcms.81](https://doi.org/10.1002/wcms.81).
+3. Neese, F. Software Update: The ORCA Program System—Version 6.0.
+   *WIREs Comput. Mol. Sci.* **2025**, *15* (2), e70019. DOI:
+   [10.1002/wcms.70019](https://doi.org/10.1002/wcms.70019).

@@ -2,6 +2,16 @@
 
 **English** | [Deutsch](README.de.md)
 
+<p align="center">
+  <a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.2.2/CrystalScopeX-0.2.2-macOS-arm64.dmg">
+    <img src="media/CrystalScopeX-icon.png" alt="CrystalScopeX app icon" width="144">
+  </a>
+</p>
+
+<p align="center">
+  <strong><a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.2.2/CrystalScopeX-0.2.2-macOS-arm64.dmg">Download CrystalScopeX 0.2.2 for Apple silicon (.dmg)</a></strong>
+</p>
+
 Welcome to CrystalScopeX — a native macOS app for exploring crystal structures
 and molecules on Apple silicon.
 

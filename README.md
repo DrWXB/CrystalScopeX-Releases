@@ -36,23 +36,6 @@ Version **0.2.2 (build 7)** is the final stable release of the 0.2 generation.
 The video is provided in its original 3840 × 2160 HEVC form without
 recompression or resolution reduction.
 
-### Scientific provenance
-
-The structural model visualized in the MP4 was derived from the crystal
-structure reported by Rösch et al.<sup>1</sup> The molecular orbitals shown in
-the video were calculated by CrystalScopeX through its integrated calculation
-workflow and rendered by CrystalScopeX; the orbital data were not taken from
-the cited publication.
-
-- **DOI:** [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w)
-- **Article link:** [Strongly reducing magnesium(0) complexes](https://www.nature.com/articles/s41586-021-03401-w)
-
-**Reference**
-
-1. Rösch, B.; Gentner, T. X.; Eyselein, J.; Langer, J.; Elsen, H.; Harder, S.
-   Strongly Reducing Magnesium(0) Complexes. *Nature* **2021**, *592*, 717–721.
-   DOI: [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w).
-
 ## Download and get started
 
 Download
@@ -165,3 +148,20 @@ license grants no rights to ORCA or other third-party software or materials.
 ## Competing interests
 
 The developer declares no competing financial interest.
+
+## Scientific provenance
+
+The structural model visualized in the MP4 was derived from the crystal
+structure reported by Rösch et al.<sup>1</sup> The molecular orbitals shown in
+the video were calculated by CrystalScopeX through its integrated calculation
+workflow and rendered by CrystalScopeX; the orbital data were not taken from
+the cited publication.
+
+- **DOI:** [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w)
+- **Article link:** [Strongly reducing magnesium(0) complexes](https://www.nature.com/articles/s41586-021-03401-w)
+
+**Reference**
+
+1. Rösch, B.; Gentner, T. X.; Eyselein, J.; Langer, J.; Elsen, H.; Harder, S.
+   Strongly Reducing Magnesium(0) Complexes. *Nature* **2021**, *592*, 717–721.
+   DOI: [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w).

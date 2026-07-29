@@ -38,23 +38,6 @@ Version **0.2.2 (Build 7)** ist die letzte stabile Version der
 Das Video liegt unverändert im ursprünglichen HEVC-Format mit 3840 × 2160
 Pixeln vor. Es wurde weder neu komprimiert noch in der Auflösung reduziert.
 
-### Wissenschaftliche Herkunft
-
-Das im MP4 visualisierte Strukturmodell wurde aus der von Rösch et al.
-veröffentlichten Kristallstruktur abgeleitet.<sup>1</sup> Die im Video gezeigten
-Molekülorbitale wurden von CrystalScopeX über den integrierten
-Berechnungsablauf berechnet und von CrystalScopeX dargestellt; die Orbitaldaten
-wurden nicht aus der zitierten Publikation übernommen.
-
-- **DOI:** [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w)
-- **Link zum Artikel:** [Strongly reducing magnesium(0) complexes](https://www.nature.com/articles/s41586-021-03401-w)
-
-**Literaturangabe**
-
-1. Rösch, B.; Gentner, T. X.; Eyselein, J.; Langer, J.; Elsen, H.; Harder, S.
-   Strongly Reducing Magnesium(0) Complexes. *Nature* **2021**, *592*, 717–721.
-   DOI: [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w).
-
 ## Herunterladen und loslegen
 
 Laden Sie
@@ -177,3 +160,20 @@ der englische Lizenztext maßgeblich.
 
 Der Entwickler erklärt, dass kein konkurrierendes finanzielles Interesse
 besteht.
+
+## Wissenschaftliche Herkunft
+
+Das im MP4 visualisierte Strukturmodell wurde aus der von Rösch et al.
+veröffentlichten Kristallstruktur abgeleitet.<sup>1</sup> Die im Video gezeigten
+Molekülorbitale wurden von CrystalScopeX über den integrierten
+Berechnungsablauf berechnet und von CrystalScopeX dargestellt; die Orbitaldaten
+wurden nicht aus der zitierten Publikation übernommen.
+
+- **DOI:** [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w)
+- **Link zum Artikel:** [Strongly reducing magnesium(0) complexes](https://www.nature.com/articles/s41586-021-03401-w)
+
+**Literaturangabe**
+
+1. Rösch, B.; Gentner, T. X.; Eyselein, J.; Langer, J.; Elsen, H.; Harder, S.
+   Strongly Reducing Magnesium(0) Complexes. *Nature* **2021**, *592*, 717–721.
+   DOI: [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w).

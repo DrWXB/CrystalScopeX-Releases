@@ -124,6 +124,8 @@ possible dialect or extension is interchangeable.
 - Recent files use security-scoped, read-only macOS bookmarks.
 - Editing, refinement results, calculation data, images, and videos are written
   as separate outputs only after an explicit user action.
+- Scientific images and videos use visible, content-identified structure
+  folders under `Documents/CrystalScopeX Exports` by default.
 - Exported scientific media does not embed local paths, account identifiers, or
   source-file locations in its presentation layer.
 - CrystalScopeX contains no telemetry, advertising, analytics, or cloud-account

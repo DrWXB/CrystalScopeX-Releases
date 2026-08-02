@@ -52,7 +52,8 @@
 - QuickTime compatibility through an explicit full-frame-rate playback intent
   in both 120-fps orbital movie formats.
 - Export organization through a stable per-structure destination and an
-  explicit Show Export Folder action.
+  explicit Show Export Folder action. Public installations use
+  `Documents/CrystalScopeX Exports` as the visible default root.
 - Keyboard navigation, VoiceOver descriptions, Larger Text behavior, Reduce
   Motion behavior, and clear source-unchanged status language.
 

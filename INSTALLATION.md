@@ -1,11 +1,11 @@
-# Installing CrystalScopeX 0.2.2 on macOS
+# Installing CrystalScopeX 0.3.2 on macOS
 
 ## Before opening the application
 
 1. Review the [CrystalScopeX Academic Use License 1.0](LICENSE.md).
    Non-commercial academic use is permitted without a license fee; commercial
    use requires a separate written license.
-2. Download `CrystalScopeX-0.2.2-macOS-arm64.dmg` only from the official
+2. Download `CrystalScopeX-0.3.2-macOS-arm64.dmg` only from the official
    CrystalScopeX release.
 3. Compare the downloaded file's SHA-256 checksum with `SHA256SUMS.txt`.
 4. Open the disk image and drag `CrystalScopeX.app` to the Applications
@@ -13,7 +13,7 @@
 
 ## First launch
 
-CrystalScopeX 0.2.2 is ad-hoc code-signed and has not been notarized by Apple.
+CrystalScopeX 0.3.2 is ad-hoc code-signed and has not been notarized by Apple.
 The first ordinary launch is therefore expected to be blocked by Gatekeeper.
 
 After that blocked launch:

@@ -49,6 +49,29 @@ Schritt für Schritt durch das übliche Verfahren
 Es ist nicht erforderlich, Gatekeeper systemweit zu deaktivieren oder
 Terminal-Befehle von Drittanbieter-Websites auszuführen.
 
+## Präsentationen aus 0.3.2 in 4K mit 120 Bildern pro Sekunde
+
+### Demo1-Referenzdrehung
+
+[![CrystalScopeX Demo1-Referenzdrehung](media/CrystalScopeX-0.3.2-Demo1-gold-standard-preview.png)](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Demo1-gold-standard-4K120.mp4)
+
+**[Demo1-Referenzvideo in 4K mit 120 Bildern pro Sekunde ansehen oder herunterladen](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Demo1-gold-standard-4K120.mp4)**
+
+Dies ist die geschützte, nicht erneut komprimierte Demo1-Referenz: eine saubere
+horizontale HEVC-Drehung mit 3840 × 2160 Pixeln und 120 Bildern pro Sekunde.
+Die akzeptierte 4,8-Sekunden-Bewegung beginnt sanft, wird in der Mitte
+schneller und endet wieder sanft.
+
+### Mg0-Sequenz der Grenzorbitale
+
+[![CrystalScopeX Mg0-Sequenz der Grenzorbitale](media/CrystalScopeX-0.3.2-Mg0-orbital-sequence-preview.png)](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)
+
+**[Mg0-Orbitalsequenz in 4K mit 120 Bildern pro Sekunde ansehen oder herunterladen](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)**
+
+Die 24-sekündige HEVC-Präsentation hält eine feste wissenschaftliche Ansicht
+und wechselt von HOMO−5 über HOMO sowie von LUMO bis LUMO+5. Jedes berechnete
+Orbital bleibt genau zwei Sekunden sichtbar.
+
 ## Beibehaltene 4K-Vorschau aus dem Release 0.2.2
 
 [![CrystalScopeX Entwicklungsvorschau zur Molekülvisualisierung](media/CrystalScopeX-0.2.2-demo-preview.png)](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.2.2/CrystalScopeX-0.2.2-demo-4K.mp4)
@@ -58,8 +81,8 @@ Terminal-Befehle von Drittanbieter-Websites auszuführen.
 Diese bereits veröffentlichte historische Vorschau bleibt ohne erneute
 Komprimierung oder Auflösungsänderung im ursprünglichen HEVC-Format mit
 3840 × 2160 Pixeln erhalten. Sie ist die akzeptierte visuelle Referenz des
-Releases 0.2.2 und unabhängig von den neuen Demonstrationsvideos für 0.3.2,
-die vor der Prüfung hier nicht verlinkt werden.
+Releases 0.2.2 und bleibt neben den oben vom Eigentümer freigegebenen
+Präsentationsmedien aus 0.3.2 verfügbar.
 
 ## Kurzüberblick der Änderungen in 0.3.2
 

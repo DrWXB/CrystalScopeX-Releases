@@ -47,6 +47,28 @@ the [installation guide](INSTALLATION.md) walks you through the standard
 There is no need to disable Gatekeeper globally or run Terminal commands from
 third-party sites.
 
+## 0.3.2 showcases in 4K at 120 fps
+
+### Demo1 gold-standard turntable
+
+[![CrystalScopeX Demo1 gold-standard turntable](media/CrystalScopeX-0.3.2-Demo1-gold-standard-preview.png)](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Demo1-gold-standard-4K120.mp4)
+
+**[Watch or download the Demo1 gold-standard 4K/120-fps MP4](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Demo1-gold-standard-4K120.mp4)**
+
+This is the protected, unrecompressed Demo1 reference: a clean horizontal
+HEVC turntable at 3840 × 2160 and 120 fps, with the accepted 4.8-second gentle
+start, faster middle passage, and gentle stop.
+
+### Mg0 frontier-orbital sequence
+
+[![CrystalScopeX Mg0 frontier-orbital sequence](media/CrystalScopeX-0.3.2-Mg0-orbital-sequence-preview.png)](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)
+
+**[Watch or download the Mg0 orbital-sequence 4K/120-fps MP4](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)**
+
+The 24-second HEVC presentation keeps one fixed scientific view and advances
+from HOMO−5 through HOMO, then LUMO through LUMO+5, with exactly two seconds
+for each calculated orbital.
+
 ## Retained 4K preview from the 0.2.2 release
 
 [![CrystalScopeX molecular visualization development preview](media/CrystalScopeX-0.2.2-demo-preview.png)](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.2.2/CrystalScopeX-0.2.2-demo-4K.mp4)
@@ -55,8 +77,8 @@ third-party sites.
 
 This historically published preview is retained without recompression or
 resolution reduction in its original 3840 × 2160 HEVC form. It remains the
-accepted visual reference from the 0.2.2 release and is separate from the new
-0.3.2 demonstration videos, which are not linked here before review.
+accepted visual reference from the 0.2.2 release and remains available beside
+the owner-approved 0.3.2 showcase media above.
 
 ## 0.3.2 change summary
 

@@ -136,6 +136,9 @@ und keine Zusage, dass jede mögliche Variante oder Dateiendung austauschbar ist
 - Bearbeitungen, Verfeinerungsergebnisse, Berechnungsdaten, Bilder und Videos
   werden nur nach einer ausdrücklichen Benutzeraktion als separate Ergebnisse
   geschrieben.
+- Wissenschaftliche Bilder und Videos werden standardmäßig in sichtbaren,
+  inhaltsbezogenen Strukturordnern unter `Documents/CrystalScopeX Exports`
+  gespeichert.
 - Die Präsentationsebene exportierter wissenschaftlicher Medien enthält keine
   lokalen Pfade, Kontoangaben oder Quelldateiorte.
 - CrystalScopeX enthält keine Telemetrie, Werbung, Analysedienste oder

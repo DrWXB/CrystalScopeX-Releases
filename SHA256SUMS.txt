@@ -1,1 +1,1 @@
-fb9cbf1814e481ac6aa20d03a27a343afe17709f8f59c26ec85f0ef63a55db4a  CrystalScopeX-0.3.2-macOS-arm64.dmg
+b9265a50c6cbc63c7c2cbb6bb126b2faf4433664ef616c3afa97e1e4accfa9f6  CrystalScopeX-0.3.2-macOS-arm64.dmg

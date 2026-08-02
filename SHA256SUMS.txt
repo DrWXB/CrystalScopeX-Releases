@@ -1,2 +1,1 @@
-df24c9c0f0458930b825ab86fbef105b2699600bae3de3ad79c192df52335e3f  CrystalScopeX-0.2.2-macOS-arm64.dmg
-4f11d971793a7eeaacee2e148027c72aa33479e645309ed2aab879a7a1f77e30  CrystalScopeX-0.2.2-demo-4K.mp4
+fb9cbf1814e481ac6aa20d03a27a343afe17709f8f59c26ec85f0ef63a55db4a  CrystalScopeX-0.3.2-macOS-arm64.dmg

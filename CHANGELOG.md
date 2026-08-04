@@ -1,6 +1,12 @@
 # CrystalScopeX changelog
 
-**Last updated:** 2026-08-02
+**Last updated:** 2026-08-04
+
+## 0.3.3 — 2026-08-04
+
+- Fixed bugs that affected core functionality.
+- Redesigned the feature bar and menus.
+- Improved application performance.
 
 ## 0.3.2 — 2026-08-02 — stable 0.3 generation
 
@@ -27,7 +33,7 @@
   export, and a current-orbital turntable export in clean HEVC 4K at 120 fps.
 - Depth Fade, global hydrogen visibility, and contextual reveal of all atoms
   adjacent to a selected non-hydrogen atom.
-- Restoration of useful window, Carl/inspector, placement, zoom, and molecular
+- Restoration of useful window, workspace-panel, placement, zoom, and molecular
   view settings between launches.
 - Common PDB, PDBx/mmCIF, and bounded SDF reading alongside the established
   CIF, XYZ/Extended XYZ, MOL, INS/RES, and Gaussian Cube workflows.
@@ -36,7 +42,7 @@
 
 - Molecular lighting, orbital-surface material, depth separation, and the
   visual transition between atoms and bonds.
-- Carl-aware Fit and Reset framing so the complete molecule uses the actually
+- Panel-aware Fit and Reset framing so the complete molecule uses the actually
   unobscured canvas.
 - Rotation pivots after Fit, Reset, panel changes, and orbital changes so the
   molecule no longer drifts around a stale screen center.

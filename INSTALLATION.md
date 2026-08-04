@@ -1,11 +1,11 @@
-# Installing CrystalScopeX 0.3.2 on macOS
+# Installing CrystalScopeX 0.3.3 on macOS
 
 ## Before opening the application
 
 1. Review the [CrystalScopeX Academic Use License 1.0](LICENSE.md).
    Non-commercial academic use is permitted without a license fee; commercial
    use requires a separate written license.
-2. Download `CrystalScopeX-0.3.2-macOS-arm64.dmg` only from the official
+2. Download `CrystalScopeX-0.3.3-macOS-arm64.dmg` only from the official
    CrystalScopeX release.
 3. Compare the downloaded file's SHA-256 checksum with `SHA256SUMS.txt`.
 4. Open the disk image and drag `CrystalScopeX.app` to the Applications
@@ -13,7 +13,7 @@
 
 ## First launch
 
-CrystalScopeX 0.3.2 is ad-hoc code-signed and has not been notarized by Apple.
+CrystalScopeX 0.3.3 is ad-hoc code-signed and has not been notarized by Apple.
 The first ordinary launch is therefore expected to be blocked by Gatekeeper.
 
 After that blocked launch:
@@ -49,8 +49,8 @@ Apple's current instructions:
 
 ## What the warning means
 
-This release was produced without a paid Apple Developer ID membership.
-Consequently, Apple has not notarized or reviewed this release and macOS cannot
-establish an Apple-registered developer identity for it. The warning is
-expected for this distribution method; it is not presented as proof that the
-application is either safe or malicious.
+This release was produced without Apple Developer ID credentials. Apple has
+therefore not notarized or reviewed it, and macOS cannot establish an
+Apple-registered developer identity for the app. The warning is expected for
+this distribution method; it is not presented as proof that the application is
+either safe or malicious.

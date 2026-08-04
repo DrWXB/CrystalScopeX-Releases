@@ -55,3 +55,24 @@ ORCA and SHELXL are optional, separately licensed, user-supplied programs.
 They are not included in CrystalScopeX. This public repository contains release
 materials only; private source code, research data, and local development paths
 are not published.
+
+## Scientific provenance
+
+The Mg0 example presented above uses a structural model derived from the
+crystal structure reported by Rösch et al.<sup>1</sup> Its molecular orbitals
+were calculated through the local CrystalScopeX workflow and rendered by
+CrystalScopeX. The orbital data were not taken from the cited publication.
+
+- **DOI:** [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w)
+- **Article:** [Strongly reducing magnesium(0) complexes](https://www.nature.com/articles/s41586-021-03401-w)
+
+**References**
+
+1. Rösch, B.; Gentner, T. X.; Eyselein, J.; Langer, J.; Elsen, H.; Harder, S.
+   Strongly Reducing Magnesium(0) Complexes. *Nature* **2021**, *592*, 717–721.
+   DOI: [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w).
+2. Neese, F. The ORCA Program System. *WIREs Comput. Mol. Sci.* **2012**, *2*,
+   73–78. DOI: [10.1002/wcms.81](https://doi.org/10.1002/wcms.81).
+3. Neese, F. Software Update: The ORCA Program System, Version 6.0.
+   *WIREs Comput. Mol. Sci.* **2025**, *15* (2), e70019. DOI:
+   [10.1002/wcms.70019](https://doi.org/10.1002/wcms.70019).

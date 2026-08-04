@@ -58,3 +58,25 @@ bereitgestellte Programme. Sie sind nicht in CrystalScopeX enthalten. Dieses
 öffentliche Repository enthält ausschließlich Release-Materialien; privater
 Quellcode, Forschungsdaten und lokale Entwicklungspfade werden nicht
 veröffentlicht.
+
+## Wissenschaftliche Herkunft
+
+Das oben gezeigte Mg0-Beispiel verwendet ein Strukturmodell, das aus der von
+Rösch et al. veröffentlichten Kristallstruktur abgeleitet wurde.<sup>1</sup>
+Die Molekülorbitale wurden über den lokalen CrystalScopeX-Arbeitsablauf
+berechnet und von CrystalScopeX dargestellt. Die Orbitaldaten wurden nicht aus
+der zitierten Publikation übernommen.
+
+- **DOI:** [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w)
+- **Artikel:** [Strongly reducing magnesium(0) complexes](https://www.nature.com/articles/s41586-021-03401-w)
+
+**Literaturangaben**
+
+1. Rösch, B.; Gentner, T. X.; Eyselein, J.; Langer, J.; Elsen, H.; Harder, S.
+   Strongly Reducing Magnesium(0) Complexes. *Nature* **2021**, *592*, 717–721.
+   DOI: [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w).
+2. Neese, F. The ORCA Program System. *WIREs Comput. Mol. Sci.* **2012**, *2*,
+   73–78. DOI: [10.1002/wcms.81](https://doi.org/10.1002/wcms.81).
+3. Neese, F. Software Update: The ORCA Program System, Version 6.0.
+   *WIREs Comput. Mol. Sci.* **2025**, *15* (2), e70019. DOI:
+   [10.1002/wcms.70019](https://doi.org/10.1002/wcms.70019).

@@ -13,28 +13,16 @@
 </p>
 
 CrystalScopeX is a native scientific workspace for crystal structures and
-molecular data. It presents complete crystallographic models—including ions,
+molecular data. It presents complete crystallographic models, including ions,
 solvent molecules, symmetry-generated components, disorder, and anisotropic
-displacement parameters—without rewriting the source file. Interactive 3D
+displacement parameters, without rewriting the source file. Interactive 3D
 inspection, measurement, structure editing, refinement instructions, and
 publication-oriented output share one focused interface.
 
-### Highlights
-
-- **Faithful structure display:** CIF, INS/RES, XYZ, MOL/SDF, PDB/mmCIF, and
-  Gaussian Cube workflows with unit cells, packing, symmetry, disorder, and
-  thermal ellipsoids.
-- **Direct analysis:** atom inspection, labels, distances, angles, dihedrals,
-  planes, and structure comparison remain connected to the molecular view.
-- **Scientific output:** thermal-ellipsoid diagrams, high-resolution TIFF/PNG
-  export, and orbital image and video tools.
-- **Local workflows:** source structures remain read-only; optional ORCA and
-  SHELXL installations are supplied and controlled by the user.
+## Installation
 
 Version **0.3.3 (build 6)** targets arm64 systems running macOS 26.0 or later
 with Metal support.
-
-## Installation
 
 Download the DMG from the [v0.3.3 release](https://github.com/DrWXB/CrystalScopeX-Releases/releases/tag/v0.3.3)
 and verify its [SHA-256 checksum](SHA256SUMS.txt).
@@ -50,7 +38,7 @@ globally.
 
 **[Watch or download the Mg0 4K/120-fps video](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)**
 
-## Developer log — 0.3.3
+## Developer log 0.3.3
 
 - Fixed bugs that affected core functionality.
 - Redesigned the feature bar and menus.

@@ -9,22 +9,40 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.3/CrystalScopeX-0.3.3-macOS-arm64.dmg">Download CrystalScopeX 0.3.3 for Apple silicon</a></strong>
+  <strong><a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.3/CrystalScopeX-0.3.3-macOS-arm64.dmg">Download CrystalScopeX 0.3.3 for macOS arm64</a></strong>
 </p>
 
-CrystalScopeX is a native macOS application for crystal-structure and molecular
-visualization. Version **0.3.3 (build 6)** requires an Apple-silicon Mac,
-macOS 26.0 or later, and a Metal-capable GPU.
+CrystalScopeX is a native scientific workspace for crystal structures and
+molecular data. It presents complete crystallographic models—including ions,
+solvent molecules, symmetry-generated components, disorder, and anisotropic
+displacement parameters—without rewriting the source file. Interactive 3D
+inspection, measurement, structure editing, refinement instructions, and
+publication-oriented output share one focused interface.
+
+### Highlights
+
+- **Faithful structure display:** CIF, INS/RES, XYZ, MOL/SDF, PDB/mmCIF, and
+  Gaussian Cube workflows with unit cells, packing, symmetry, disorder, and
+  thermal ellipsoids.
+- **Direct analysis:** atom inspection, labels, distances, angles, dihedrals,
+  planes, and structure comparison remain connected to the molecular view.
+- **Scientific output:** thermal-ellipsoid diagrams, high-resolution TIFF/PNG
+  export, and orbital image and video tools.
+- **Local workflows:** source structures remain read-only; optional ORCA and
+  SHELXL installations are supplied and controlled by the user.
+
+Version **0.3.3 (build 6)** targets arm64 systems running macOS 26.0 or later
+with Metal support.
 
 ## Installation
 
 Download the DMG from the [v0.3.3 release](https://github.com/DrWXB/CrystalScopeX-Releases/releases/tag/v0.3.3)
 and verify its [SHA-256 checksum](SHA256SUMS.txt).
 
-This build is ad-hoc code-signed, but it is **not signed with an Apple Developer
-ID and is not notarized by Apple**. Follow the [installation guide](INSTALLATION.md)
-for the standard **Privacy & Security → Open Anyway** procedure. Do not disable
-Gatekeeper globally.
+This build is ad-hoc code-signed, but it is **not Developer ID-signed or
+notarized**. Follow the [installation guide](INSTALLATION.md) for the standard
+**Privacy & Security → Open Anyway** procedure. Do not disable Gatekeeper
+globally.
 
 ## Mg0 orbital sequence
 

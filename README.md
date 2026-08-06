@@ -1,15 +1,15 @@
-# CrystalScopeX 0.3.3
+# CrystalScopeX 0.3.4
 
 **English** | [Deutsch](README.de.md)
 
 <p align="center">
-  <a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.3/CrystalScopeX-0.3.3-macOS-arm64.dmg">
+  <a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.4/CrystalScopeX-0.3.4-macOS-arm64.dmg">
     <img src="media/CrystalScopeX-icon.png" alt="CrystalScopeX app icon" width="144">
   </a>
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.3/CrystalScopeX-0.3.3-macOS-arm64.dmg">Download CrystalScopeX 0.3.3 for macOS arm64</a></strong>
+  <strong><a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.4/CrystalScopeX-0.3.4-macOS-arm64.dmg">Download CrystalScopeX 0.3.4 for macOS arm64</a></strong>
 </p>
 
 CrystalScopeX is a native scientific workspace for crystal structures and
@@ -21,10 +21,10 @@ publication-oriented output share one focused interface.
 
 ## Installation
 
-Version **0.3.3 (build 6)** targets arm64 systems running macOS 26.0 or later
+Version **0.3.4 (build 7)** targets arm64 systems running macOS 26.0 or later
 with Metal support.
 
-Download the DMG from the [v0.3.3 release](https://github.com/DrWXB/CrystalScopeX-Releases/releases/tag/v0.3.3)
+Download the DMG from the [v0.3.4 release](https://github.com/DrWXB/CrystalScopeX-Releases/releases/tag/v0.3.4)
 and verify its [SHA-256 checksum](SHA256SUMS.txt).
 
 This build is ad-hoc code-signed, but it is **not Developer ID-signed or
@@ -38,11 +38,12 @@ globally.
 
 **[Watch or download the Mg0 4K/120-fps video](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)**
 
-## Developer log 0.3.3
+## Developer log 0.3.4
 
-- Fixed bugs that affected core functionality.
-- Redesigned the feature bar and menus.
-- Improved application performance.
+- Improved dense atom-label rendering with adjustable typography.
+- Improved large-structure animation performance without reducing visual
+  precision or quality.
+- Fixed the background selector layout.
 
 ## Release information
 

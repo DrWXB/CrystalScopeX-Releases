@@ -1,6 +1,13 @@
 # CrystalScopeX changelog
 
-**Last updated:** 2026-08-04
+**Last updated:** 2026-08-06
+
+## 0.3.4 — 2026-08-06
+
+- Improved dense atom-label rendering with adjustable typography.
+- Improved large-structure animation performance without reducing visual
+  precision or quality.
+- Fixed the background selector layout.
 
 ## 0.3.3 — 2026-08-04
 

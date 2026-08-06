@@ -1,3 +1,4 @@
+f289b716ee8e1ec7d429337981215653cb6c4559309e55d5a18ed2d1a92b6804  CrystalScopeX-0.3.4-macOS-arm64.dmg
 641c54d89cd7d12edcf29632820b7a6d57f1f46b99f67e45580d53b0446c213d  CrystalScopeX-0.3.3-macOS-arm64.dmg
 b9265a50c6cbc63c7c2cbb6bb126b2faf4433664ef616c3afa97e1e4accfa9f6  CrystalScopeX-0.3.2-macOS-arm64.dmg
 4f11d971793a7eeaacee2e148027c72aa33479e645309ed2aab879a7a1f77e30  CrystalScopeX-0.3.2-Demo1-gold-standard-4K120.mp4

@@ -1,13 +1,24 @@
 # CrystalScopeX changelog
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-15
 
-## 0.3.4 — 2026-08-06
+## 0.3.4 — 2026-08-15
 
-- Improved dense atom-label rendering with adjustable typography.
-- Improved large-structure animation performance without reducing visual
-  precision or quality.
-- Fixed the background selector layout.
+- Added a read-only Refinement Restore workflow for recovering supported
+  crystallographic archive files into explicit user-selected outputs.
+- Corrected CIF and SHELXL Structure presentation to show the exact asymmetric
+  unit while keeping packed-cell and periodic-network views independent.
+- Improved crystallographic connectivity presentation, including suppression
+  of implausible long unordered metal-carbon contacts without rewriting source
+  topology.
+- Improved measurement annotations and depth-tested guides, workspace panel
+  placement, INS editor readability, and stable display-toolbar interactions.
+- Added direct representation, projection, color, and bar-appearance switching
+  while preserving camera position and toolbar geometry.
+- Removed the unfinished calculation interface and experimental HDR and atom-
+  label controls from the current product surface.
+- Improved large-structure rendering and interaction without reducing geometry,
+  anisotropic-displacement precision, transparency ordering, or export quality.
 
 ## 0.3.3 — 2026-08-04
 

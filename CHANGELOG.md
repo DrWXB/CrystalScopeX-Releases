@@ -1,6 +1,19 @@
 # CrystalScopeX changelog
 
-**Last updated:** 2026-08-15
+**Last updated:** 2026-08-20
+
+## 0.3.5 — 2026-08-20
+
+- Added optional fixed 16-point labels for non-hydrogen atoms on the live molecular
+  canvas. Label placement follows the camera frame without animation or
+  side-switching during high-refresh interaction.
+- Kept completed measurement records in the measurement inspector while limiting molecular-canvas
+  measurement overlays to Measurement mode. Both deletion surfaces address the
+  exact stored annotation.
+- Renamed the refinement action to `Refine` while retaining its function, icon,
+  ordering, and existing refinement workflow.
+- Preserved scientific-image output, source data, camera behavior, and all
+  previously accepted rendering and interaction contracts.
 
 ## 0.3.4 — 2026-08-15
 

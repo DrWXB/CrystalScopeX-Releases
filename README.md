@@ -1,15 +1,15 @@
-# CrystalScopeX 0.3.4
+# CrystalScopeX 0.3.5
 
 **English** | [Deutsch](README.de.md)
 
 <p align="center">
-  <a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.4/CrystalScopeX-0.3.4-macOS-arm64.dmg">
+  <a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.5/CrystalScopeX-0.3.5-macOS-arm64.dmg">
     <img src="media/CrystalScopeX-icon.png" alt="CrystalScopeX app icon" width="144">
   </a>
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.4/CrystalScopeX-0.3.4-macOS-arm64.dmg">Download CrystalScopeX 0.3.4 for macOS arm64</a></strong>
+  <strong><a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.5/CrystalScopeX-0.3.5-macOS-arm64.dmg">Download CrystalScopeX 0.3.5 for macOS arm64</a></strong>
 </p>
 
 CrystalScopeX is a native scientific workspace for crystal structures and
@@ -21,10 +21,10 @@ publication-oriented output share one focused interface.
 
 ## Installation
 
-Version **0.3.4 (build 7)** targets arm64 systems running macOS 26.0 or later
+Version **0.3.5 (build 8)** targets arm64 systems running macOS 26.0 or later
 with Metal support.
 
-Download the DMG from the [v0.3.4 release](https://github.com/DrWXB/CrystalScopeX-Releases/releases/tag/v0.3.4)
+Download the DMG from the [v0.3.5 release](https://github.com/DrWXB/CrystalScopeX-Releases/releases/tag/v0.3.5)
 and verify its [SHA-256 checksum](SHA256SUMS.txt).
 
 This build is ad-hoc code-signed, but it is **not Developer ID-signed or
@@ -38,12 +38,14 @@ globally.
 
 **[Watch or download the Mg0 4K/120-fps video](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)**
 
-## Developer log 0.3.4
+## Developer log 0.3.5
 
-- Improved dense atom-label rendering with adjustable typography.
-- Improved large-structure animation performance without reducing visual
-  precision or quality.
-- Fixed the background selector layout.
+- Added optional fixed 16-point labels for non-hydrogen atoms, synchronized with
+  the molecular camera for stable high-refresh interaction.
+- Kept completed measurement records in the measurement inspector while showing their canvas
+  overlays only during Measurement mode, with exact deletion controls.
+- Renamed the refinement action to `Refine` while preserving its existing
+  function, icon, and position.
 
 ## Release information
 

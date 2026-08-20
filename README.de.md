@@ -1,15 +1,15 @@
-# CrystalScopeX 0.3.4
+# CrystalScopeX 0.3.5
 
 [English](README.md) | **Deutsch**
 
 <p align="center">
-  <a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.4/CrystalScopeX-0.3.4-macOS-arm64.dmg">
+  <a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.5/CrystalScopeX-0.3.5-macOS-arm64.dmg">
     <img src="media/CrystalScopeX-icon.png" alt="CrystalScopeX-App-Symbol" width="144">
   </a>
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.4/CrystalScopeX-0.3.4-macOS-arm64.dmg">CrystalScopeX 0.3.4 für macOS arm64 herunterladen</a></strong>
+  <strong><a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.5/CrystalScopeX-0.3.5-macOS-arm64.dmg">CrystalScopeX 0.3.5 für macOS arm64 herunterladen</a></strong>
 </p>
 
 CrystalScopeX ist eine native wissenschaftliche Arbeitsumgebung für
@@ -22,10 +22,10 @@ publikationsorientierte Ausgabe sind in einer klaren Oberfläche verbunden.
 
 ## Installation
 
-Version **0.3.4 (Build 7)** ist für arm64-Systeme mit macOS 26.0 oder neuer und
+Version **0.3.5 (Build 8)** ist für arm64-Systeme mit macOS 26.0 oder neuer und
 Metal-Unterstützung vorgesehen.
 
-Laden Sie das DMG aus dem [Release v0.3.4](https://github.com/DrWXB/CrystalScopeX-Releases/releases/tag/v0.3.4)
+Laden Sie das DMG aus dem [Release v0.3.5](https://github.com/DrWXB/CrystalScopeX-Releases/releases/tag/v0.3.5)
 herunter und prüfen Sie die [SHA-256-Prüfsumme](SHA256SUMS.txt).
 
 Dieser Build ist ad hoc codesigniert, aber **weder mit einer Developer ID
@@ -40,13 +40,15 @@ nicht systemweit.
 
 **[Mg0-Video in 4K mit 120 Bildern pro Sekunde ansehen oder herunterladen](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)**
 
-## Entwicklerprotokoll 0.3.4
+## Entwicklerprotokoll 0.3.5
 
-- Darstellung dichter Atombeschriftungen mit einstellbarer Schriftgröße
-  verbessert.
-- Animationen großer Strukturen ohne Verringerung der Darstellungsgenauigkeit
-  oder Bildqualität beschleunigt.
-- Layout der Hintergrundauswahl korrigiert.
+- Optionale feste 16-Punkt-Atombeschriftungen für Nichtwasserstoffatome ergänzt;
+  sie folgen der Molekülkamera auch bei hoher Bildwiederholrate stabil.
+- Abgeschlossene Messungen bleiben in der Messwertübersicht erhalten, während ihre Einblendungen
+  auf der Molekülansicht nur im Messmodus erscheinen; Löschaktionen adressieren
+  den exakten Eintrag.
+- Die Verfeinerungsaktion wurde in `Refine` umbenannt; Funktion, Symbol und
+  Position bleiben unverändert.
 
 ## Release-Informationen
 

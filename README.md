@@ -34,9 +34,9 @@ globally.
 
 ## Demo
 
-[![CrystalScopeX demo](media/CrystalScopeX-0.3.2-Mg0-orbital-sequence-preview.png)](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)
+[![CrystalScopeX demo](media/CrystalScopeX-0.3.2-Demo1-gold-standard-preview.png)](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Demo1-gold-standard-4K120.mp4)
 
-**[Watch or download the 4K/120-fps demo video](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)**
+**[Watch or download the 4K/120-fps demo video](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Demo1-gold-standard-4K120.mp4)**
 
 ## Developer log 0.3.5
 

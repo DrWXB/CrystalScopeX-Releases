@@ -32,11 +32,11 @@ notarized**. Follow the [installation guide](INSTALLATION.md) for the standard
 **Privacy & Security → Open Anyway** procedure. Do not disable Gatekeeper
 globally.
 
-## Mg0 orbital sequence
+## Demo
 
-[![CrystalScopeX Mg0 orbital sequence](media/CrystalScopeX-0.3.2-Mg0-orbital-sequence-preview.png)](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)
+[![CrystalScopeX demo](media/CrystalScopeX-0.3.2-Mg0-orbital-sequence-preview.png)](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)
 
-**[Watch or download the Mg0 4K/120-fps video](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)**
+**[Watch or download the 4K/120-fps demo video](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)**
 
 ## Developer log 0.3.5
 

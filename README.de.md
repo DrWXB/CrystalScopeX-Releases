@@ -34,11 +34,11 @@ signiert noch notarisiert**. Folgen Sie der
 **Datenschutz & Sicherheit → Dennoch öffnen**. Deaktivieren Sie Gatekeeper
 nicht systemweit.
 
-## Mg0-Orbitalsequenz
+## Demo
 
-[![CrystalScopeX Mg0-Orbitalsequenz](media/CrystalScopeX-0.3.2-Mg0-orbital-sequence-preview.png)](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)
+[![CrystalScopeX-Demo](media/CrystalScopeX-0.3.2-Mg0-orbital-sequence-preview.png)](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)
 
-**[Mg0-Video in 4K mit 120 Bildern pro Sekunde ansehen oder herunterladen](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)**
+**[Demo-Video in 4K mit 120 Bildern pro Sekunde ansehen oder herunterladen](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Mg0-orbital-sequence-4K120.mp4)**
 
 ## Entwicklerprotokoll 0.3.5
 

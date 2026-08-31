@@ -64,7 +64,7 @@ This build is ad-hoc code-signed, but it is **not Developer ID-signed or notariz
 
 <div align="justify">
 
-ORCA and SHELXL are optional, separately licensed, user-supplied programs. They are not included in CrystalScopeX. This public reposi&shy;tory contains release materials only; private source code, research data, and local develop&shy;ment paths are not published.
+ORCA<sup>2,3</sup> and SHELXL are optional, separately licensed, user-supplied programs. They are not included in CrystalScopeX. This public reposi&shy;tory contains release materials only; private source code, research data, and local develop&shy;ment paths are not published.
 
 </div>
 
@@ -72,7 +72,7 @@ ORCA and SHELXL are optional, separately licensed, user-supplied programs. They 
 
 <div align="justify">
 
-The Mg0 example presented above uses a struc&shy;tural model derived from the crystal structure reported by Rösch et al.<sup>2</sup> Its molec&shy;ular orbitals were calcu&shy;lated through the local CrystalScopeX workflow and rendered by CrystalScopeX. The orbital data were not taken from the cited publi&shy;cation.
+The Mg0 example presented above uses a struc&shy;tural model derived from the crystal structure reported by Rösch et al.<sup>4</sup> Its molec&shy;ular orbitals were calcu&shy;lated through the local CrystalScopeX workflow and rendered by CrystalScopeX. The orbital data were not taken from the cited publi&shy;cation.
 
 </div>
 
@@ -81,11 +81,7 @@ The Mg0 example presented above uses a struc&shy;tural model derived from the cr
 
 **References**
 
-<div align="justify">
-
 1. Sheldrick, G. M. A short history of *SHELX*. *Acta Crystallogr. A* **2008**, *64*, 112–122. DOI: [10.1107/S0108767307043930](https://doi.org/10.1107/S0108767307043930).
-2. Rösch, B.; Gentner, T. X.; Eyselein, J.; Langer, J.; Elsen, H.; Harder, S. Strongly Reducing Magnesium(0) Complexes. *Nature* **2021**, *592*, 717–721. DOI: [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w).
-3. Neese, F. The ORCA Program System. *WIREs Comput. Mol. Sci.* **2012**, *2*, 73–78. DOI: [10.1002/wcms.81](https://doi.org/10.1002/wcms.81).
-4. Neese, F. Software Update: The ORCA Program System, Version 6.0. *WIREs Comput. Mol. Sci.* **2025**, *15* (2), e70019. DOI: [10.1002/wcms.70019](https://doi.org/10.1002/wcms.70019).
-
-</div>
+2. Neese, F. The ORCA program system. *WIREs Comput. Mol. Sci.* **2012**, *2*, 73–78. DOI: [10.1002/wcms.81](https://doi.org/10.1002/wcms.81).
+3. Neese, F. Software update: The ORCA program system, version 6.0. *WIREs Comput. Mol. Sci.* **2025**, *15* (2), e70019. DOI: [10.1002/wcms.70019](https://doi.org/10.1002/wcms.70019).
+4. Rösch, B.; Gentner, T. X.; Eyselein, J.; Langer, J.; Elsen, H.; Harder, S. Strongly reducing magnesium(0) complexes. *Nature* **2021**, *592*, 717–721. DOI: [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w).

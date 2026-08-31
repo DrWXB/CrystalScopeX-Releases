@@ -12,13 +12,15 @@
   <strong><a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.6/CrystalScopeX-0.3.6-macOS-arm64.dmg">CrystalScopeX 0.3.6 für macOS arm64 herunterladen</a></strong>
 </p>
 
+<p align="justify">
 CrystalScopeX erweckt Kristallstrukturen in einer flüssigen, visuell
 eindrucksvollen wissenschaftlichen Arbeitsumgebung zum Leben. Erkunden Sie
-vollständige kristallographische Modelle – von Ionen und Lösungsmittelmolekülen
-über symmetrieerzeugte Komponenten und Fehlordnung bis zu anisotropen
-Auslenkungsparametern – interaktiv in 3D. Messen, bearbeiten, verfeinern und
-gestalten Sie publikationsreife Ergebnisse in einer fokussierten Oberfläche,
-die Ideen voranbringt.
+vollständige kristallographische Modelle interaktiv in 3D, von Ionen und
+Lösungsmittelmolekülen über symmetrieerzeugte Komponenten und Fehlordnung bis zu
+anisotropen Auslenkungsparametern. Messen, bearbeiten, verfeinern und gestalten
+Sie publikationsreife Ergebnisse in einer fokussierten Oberfläche, die Ideen
+voranbringt.
+</p>
 
 ## Installation
 

@@ -1,6 +1,13 @@
 # CrystalScopeX changelog
 
-**Last updated:** 2026-08-20
+**Last updated:** 2026-08-31
+
+## 0.3.6 — 2026-08-31
+
+- Added an all-new native arm64 crystal-refinement workflow. Compatibility with
+  SHELXL semantics and instructions is under active development; the feature
+  remains in beta. The current beta has passed compilation tests across more
+  than 5,000 crystallographic cases.
 
 ## 0.3.5 — 2026-08-20
 

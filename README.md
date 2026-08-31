@@ -1,30 +1,30 @@
-# CrystalScopeX 0.3.5
+# CrystalScopeX 0.3.6
 
 **English** | [Deutsch](README.de.md)
 
 <p align="center">
-  <a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.5/CrystalScopeX-0.3.5-macOS-arm64.dmg">
+  <a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.6/CrystalScopeX-0.3.6-macOS-arm64.dmg">
     <img src="media/CrystalScopeX-icon.png" alt="CrystalScopeX app icon" width="144">
   </a>
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.5/CrystalScopeX-0.3.5-macOS-arm64.dmg">Download CrystalScopeX 0.3.5 for macOS arm64</a></strong>
+  <strong><a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.6/CrystalScopeX-0.3.6-macOS-arm64.dmg">Download CrystalScopeX 0.3.6 for macOS arm64</a></strong>
 </p>
 
 CrystalScopeX is a native scientific workspace for crystal structures and
 molecular data. It presents complete crystallographic models, including ions,
 solvent molecules, symmetry-generated components, disorder, and anisotropic
-displacement parameters, without rewriting the source file. Interactive 3D
+displacement parameters. Interactive 3D
 inspection, measurement, structure editing, refinement instructions, and
 publication-oriented output share one focused interface.
 
 ## Installation
 
-Version **0.3.5 (build 8)** targets arm64 systems running macOS 26.0 or later
+Version **0.3.6 (build 9)** targets arm64 systems running macOS 26.0 or later
 with Metal support.
 
-Download the DMG from the [v0.3.5 release](https://github.com/DrWXB/CrystalScopeX-Releases/releases/tag/v0.3.5)
+Download the DMG from the [v0.3.6 release](https://github.com/DrWXB/CrystalScopeX-Releases/releases/tag/v0.3.6)
 and verify its [SHA-256 checksum](SHA256SUMS.txt).
 
 This build is ad-hoc code-signed, but it is **not Developer ID-signed or
@@ -38,14 +38,12 @@ globally.
 
 **[Watch or download the 4K/120-fps demo video](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Demo1-gold-standard-4K120.mp4)**
 
-## Developer log 0.3.5
+## Developer log 0.3.6
 
-- Added optional fixed 16-point labels for non-hydrogen atoms, synchronized with
-  the molecular camera for stable high-refresh interaction.
-- Kept completed measurement records in the measurement inspector while showing their canvas
-  overlays only during Measurement mode, with exact deletion controls.
-- Renamed the refinement action to `Refine` while preserving its existing
-  function, icon, and position.
+- Added an all-new native arm64 crystal-refinement workflow. Compatibility with
+  SHELXL semantics and instructions is under active development; the feature
+  remains in beta. The current beta has passed compilation tests across more
+  than 5,000 crystallographic cases.
 
 ## Release information
 

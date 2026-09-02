@@ -62,7 +62,7 @@ This build is ad-hoc code-signed, but it is **not Developer ID-signed or notariz
 
 <div align="justify">
 
-ORCA<sup>2,3</sup> and SHELXL (temporarily removed) are optional, separately licensed, user-supplied programs. They are not included in CrystalScopeX. This public reposi&shy;tory contains release materials only; private source code, research data, and local develop&shy;ment paths are not published.
+ORCA<sup>2,3</sup> and SHELXL (temporarily removed) are optional, separately licensed, user-supplied programs. They are not included in CrystalScopeX. This public reposi&shy;tory contains release materials only; private source code, research data, and local develop&shy;ment paths are not published. The first ARM64-native small-molecule refinement program for Apple silicon will soon be released as a standalone open-source project.
 
 </div>
 

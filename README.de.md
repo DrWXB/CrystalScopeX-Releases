@@ -51,6 +51,8 @@ Dieser Build ist ad hoc codesigniert, aber **weder mit einer Developer ID signie
 <div align="justify">
 
 - Ein vollständig neuer nativer arm64-Workflow zur Kristall&shy;struktur&shy;verfeinerung wurde ergänzt. Die Kompa&shy;tibilität mit SHELXL<sup>1</sup>-Semantik und -Anweisungen wird aktiv entwickelt; die Funktion bleibt im Beta-Stadium. Die aktuelle Beta hat Kompi&shy;lierungs&shy;tests mit mehr als 5.000 kristallo&shy;graphischen Fällen bestanden.
+- Ersetzung, Nummerierung, Reihenfolge und Koordinaten der Q-Peaks bei wiederholter Verfeinerung wurden korrigiert. Jede Peak-Liste bleibt dabei an die zugehörige RES-Struktur und Differenzdichtekarte gebunden.
+- Der Zugriff auf Operationen, Details und Periodensystem aus Refine wurde wiederhergestellt. Die optionale externe SHELXL-Anbindung und ihre Einstellungen sind vorübergehend entfernt; der integrierte CRC-2026-Verfeinerungsworkflow bleibt verfügbar.
 
 </div>
 

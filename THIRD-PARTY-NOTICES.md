@@ -25,14 +25,15 @@ and official links.
 
 ## SHELXL
 
-CrystalScopeX can send an explicitly prepared INS draft to a compatible SHELXL
-executable selected by the user and can open the resulting RES data as a new
-result. The source INS/RES file is not overwritten by this workflow.
+CrystalScopeX independently supports INS/RES files and compatible refinement
+instruction semantics. In the current release, the optional connection for
+executing a user-selected SHELXL program and its settings are temporarily
+removed. CrystalScopeX does not invoke a SHELXL executable.
 
 - No SHELXL executable, installer, source code, documentation, logo, or other
   SHELXL file is contained in or redistributed with CrystalScopeX.
-- Users must obtain SHELXL independently and comply with its license and
-  citation requirements.
+- Users who obtain or use SHELXL separately must comply with its own license
+  and citation requirements.
 - A CrystalScopeX license or download grants no license to SHELXL.
 - CrystalScopeX is not developed, endorsed, sponsored, or supported by the
   SHELXL authors or distributors.

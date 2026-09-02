@@ -1,6 +1,6 @@
 # CrystalScopeX changelog
 
-**Last updated:** 2026-08-31
+**Last updated:** 2026-09-03
 
 ## 0.3.6 — 2026-08-31
 
@@ -8,6 +8,12 @@
   SHELXL semantics and instructions is under active development; the feature
   remains in beta. The current beta has passed compilation tests across more
   than 5,000 crystallographic cases.
+- Corrected Q-peak replacement, canonical numbering, positive-peak ordering,
+  Fourier coordinates, and result provenance across repeated refinement.
+- Restored Operations, Details, and Periodic Table access from Refine.
+- Temporarily removed the optional external SHELXL execution connection and
+  its settings while retaining the built-in CRC 2026 workflow and INS/RES
+  interoperability.
 
 ## 0.3.5 — 2026-08-20
 

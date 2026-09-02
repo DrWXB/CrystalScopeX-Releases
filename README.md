@@ -50,6 +50,8 @@ This build is ad-hoc code-signed, but it is **not Developer ID-signed or notariz
 <div align="justify">
 
 - Added an all-new native arm64 crystal-refinement workflow. Compa&shy;tibility with SHELXL<sup>1</sup> semantics and instruc&shy;tions is under active develop&shy;ment; the feature remains in beta. The current beta has passed compi&shy;lation tests across more than 5,000 crystallo&shy;graphic cases.
+- Corrected Q-peak replacement, numbering, ordering, and coordinates across repeated refinement, while keeping each peak list bound to its matching RES structure and difference-density map.
+- Restored Operations, Details, and Periodic Table access from Refine. The optional external SHELXL connection and its settings are temporarily removed; the built-in CRC 2026 refinement workflow remains available.
 
 </div>
 

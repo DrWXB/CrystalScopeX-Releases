@@ -44,9 +44,7 @@ Dieser Build ist ad hoc codesigniert, aber **weder mit einer Developer ID signie
 
 ## Demo
 
-[![CrystalScopeX-Demo](media/CrystalScopeX-0.3.2-Demo1-gold-standard-preview.png)](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Demo1-gold-standard-4K120.mp4)
-
-**[Demo-Video in 4K mit 120 Bildern pro Sekunde ansehen oder herunterladen](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Demo1-gold-standard-4K120.mp4)**
+![CrystalScopeX-Arbeitsbereich zur Strukturverfeinerung](media/Demo3_png.png)
 
 ## Entwicklerprotokoll 0.3.6
 
@@ -69,20 +67,8 @@ ORCA<sup>2,3</sup> und SHELXL sind optionale, separat lizenzierte und vom Benutz
 
 </div>
 
-## Wissenschaftliche Herkunft
-
-<div align="justify">
-
-Das oben gezeigte Mg0-Beispiel verwendet ein Struktur&shy;modell, das aus der von Rösch et al. veröffentlichten Kristall&shy;struktur abgeleitet wurde.<sup>4</sup> Die Molekül&shy;orbitale wurden über den lokalen CrystalScopeX-Arbeits&shy;ablauf berechnet und von CrystalScopeX dargestellt. Die Orbitaldaten wurden nicht aus der zitierten Publikation übernommen.
-
-</div>
-
-- **DOI:** [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w)
-- **Artikel:** [Strongly reducing magnesium(0) complexes](https://www.nature.com/articles/s41586-021-03401-w)
-
-**Literaturangaben**
+## Literaturangaben
 
 1. Sheldrick, G. M. A short history of *SHELX*. *Acta Crystallogr. A* **2008**, *64*, 112–122. DOI: [10.1107/S0108767307043930](https://doi.org/10.1107/S0108767307043930).
 2. Neese, F. The ORCA program system. *WIREs Comput. Mol. Sci.* **2012**, *2*, 73–78. DOI: [10.1002/wcms.81](https://doi.org/10.1002/wcms.81).
 3. Neese, F. Software update: The ORCA program system, version 6.0. *WIREs Comput. Mol. Sci.* **2025**, *15* (2), e70019. DOI: [10.1002/wcms.70019](https://doi.org/10.1002/wcms.70019).
-4. Rösch, B.; Gentner, T. X.; Eyselein, J.; Langer, J.; Elsen, H.; Harder, S. Strongly reducing magnesium(0) complexes. *Nature* **2021**, *592*, 717–721. DOI: [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w).

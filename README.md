@@ -43,9 +43,7 @@ This build is ad-hoc code-signed, but it is **not Developer ID-signed or notariz
 
 ## Demo
 
-[![CrystalScopeX demo](media/CrystalScopeX-0.3.2-Demo1-gold-standard-preview.png)](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Demo1-gold-standard-4K120.mp4)
-
-**[Watch or download the 4K/120-fps demo video](https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.2/CrystalScopeX-0.3.2-Demo1-gold-standard-4K120.mp4)**
+![CrystalScopeX refinement workspace](media/Demo3_png.png)
 
 ## Developer log 0.3.6
 
@@ -68,20 +66,8 @@ ORCA<sup>2,3</sup> and SHELXL are optional, separately licensed, user-supplied p
 
 </div>
 
-## Scientific provenance
-
-<div align="justify">
-
-The Mg0 example presented above uses a struc&shy;tural model derived from the crystal structure reported by Rösch et al.<sup>4</sup> Its molec&shy;ular orbitals were calcu&shy;lated through the local CrystalScopeX workflow and rendered by CrystalScopeX. The orbital data were not taken from the cited publi&shy;cation.
-
-</div>
-
-- **DOI:** [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w)
-- **Article:** [Strongly reducing magnesium(0) complexes](https://www.nature.com/articles/s41586-021-03401-w)
-
-**References**
+## References
 
 1. Sheldrick, G. M. A short history of *SHELX*. *Acta Crystallogr. A* **2008**, *64*, 112–122. DOI: [10.1107/S0108767307043930](https://doi.org/10.1107/S0108767307043930).
 2. Neese, F. The ORCA program system. *WIREs Comput. Mol. Sci.* **2012**, *2*, 73–78. DOI: [10.1002/wcms.81](https://doi.org/10.1002/wcms.81).
 3. Neese, F. Software update: The ORCA program system, version 6.0. *WIREs Comput. Mol. Sci.* **2025**, *15* (2), e70019. DOI: [10.1002/wcms.70019](https://doi.org/10.1002/wcms.70019).
-4. Rösch, B.; Gentner, T. X.; Eyselein, J.; Langer, J.; Elsen, H.; Harder, S. Strongly reducing magnesium(0) complexes. *Nature* **2021**, *592*, 717–721. DOI: [10.1038/s41586-021-03401-w](https://doi.org/10.1038/s41586-021-03401-w).

@@ -63,7 +63,7 @@ Dieser Build ist ad hoc codesigniert, aber **weder mit einer Developer ID signie
 
 <div align="justify">
 
-ORCA<sup>2,3</sup> und SHELXL sind optionale, separat lizenzierte und vom Benutzer bereit&shy;gestellte Programme. Sie sind nicht in CrystalScopeX enthalten. Dieses öffentliche Repository enthält ausschließlich Release-Materialien; privater Quellcode, Forschungs&shy;daten und lokale Entwicklungs&shy;pfade werden nicht veröffentlicht.
+ORCA<sup>2,3</sup> und SHELXL (temporarily removed) sind optionale, separat lizenzierte und vom Benutzer bereit&shy;gestellte Programme. Sie sind nicht in CrystalScopeX enthalten. Dieses öffentliche Repository enthält ausschließlich Release-Materialien; privater Quellcode, Forschungs&shy;daten und lokale Entwicklungs&shy;pfade werden nicht veröffentlicht.
 
 </div>
 

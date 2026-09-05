@@ -45,6 +45,8 @@ This build is ad-hoc code-signed, but it is **not Developer ID-signed or notariz
 
 ![CrystalScopeX refinement workspace](media/Demo3_png.png)
 
+![CrystalScopeX refinement workspace in Dark Mode](media/demo_darkmode.png)
+
 ## Developer log 0.3.7
 
 <div align="justify">

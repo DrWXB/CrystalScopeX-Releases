@@ -46,6 +46,8 @@ Dieser Build ist ad hoc codesigniert, aber **weder mit einer Developer ID signie
 
 ![CrystalScopeX-Arbeitsbereich zur Strukturverfeinerung](media/Demo3_png.png)
 
+![CrystalScopeX-Arbeitsbereich zur Strukturverfeinerung im Dark Mode](media/demo_darkmode.png)
+
 ## Entwicklerprotokoll 0.3.7
 
 <div align="justify">

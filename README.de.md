@@ -1,15 +1,15 @@
-# CrystalScopeX 0.3.6
+# CrystalScopeX 0.3.7
 
 [English](README.md) | **Deutsch**
 
 <p align="center">
-  <a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.6/CrystalScopeX-0.3.6-macOS-arm64.dmg">
+  <a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.7/CrystalScopeX-0.3.7-macOS-arm64.dmg">
     <img src="media/CrystalScopeX-icon.png" alt="CrystalScopeX-App-Symbol" width="144">
   </a>
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.6/CrystalScopeX-0.3.6-macOS-arm64.dmg">CrystalScopeX 0.3.6 für macOS arm64 herunterladen</a></strong>
+  <strong><a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.7/CrystalScopeX-0.3.7-macOS-arm64.dmg">CrystalScopeX 0.3.7 für macOS arm64 herunterladen</a></strong>
 </p>
 
 <p align="justify">
@@ -18,7 +18,7 @@ eindrucksvollen wissen&shy;schaftlichen Arbeits&shy;umgebung zum Leben.
 Erkunden Sie vollständige kristallo&shy;graphische Modelle interaktiv in 3D,
 von kleinen Molekülen über symmetrie&shy;erzeugte Komponenten, Fehlordnung und
 Verzwillingung bis zu anisotropen Auslenkungs&shy;parametern. Messen,
-bearbeiten, verfeinern und gestalten Sie publikations&shy;reife Ergebnisse in
+verfeinern und gestalten Sie publikations&shy;reife Ergebnisse in
 einer fokussierten Oberfläche, die Ideen voranbringt.
 </p>
 
@@ -26,13 +26,13 @@ einer fokussierten Oberfläche, die Ideen voranbringt.
 
 <div align="justify">
 
-Version **0.3.6 (Build 9)** ist für arm64-Systeme mit macOS 26.0 oder neuer und Metal-Unterstützung vorgesehen.
+Version **0.3.7 (Build 10)** ist für arm64-Systeme mit macOS 26.0 oder neuer und Metal-Unterstützung vorgesehen.
 
 </div>
 
 <div align="justify">
 
-Laden Sie das DMG aus dem [Release v0.3.6](https://github.com/DrWXB/CrystalScopeX-Releases/releases/tag/v0.3.6) herunter und prüfen Sie die [SHA-256-Prüfsumme](SHA256SUMS.txt).
+Laden Sie das DMG aus dem [Release v0.3.7](https://github.com/DrWXB/CrystalScopeX-Releases/releases/tag/v0.3.7) herunter und prüfen Sie die [SHA-256-Prüfsumme](SHA256SUMS.txt).
 
 </div>
 
@@ -46,13 +46,14 @@ Dieser Build ist ad hoc codesigniert, aber **weder mit einer Developer ID signie
 
 ![CrystalScopeX-Arbeitsbereich zur Strukturverfeinerung](media/Demo3_png.png)
 
-## Entwicklerprotokoll 0.3.6
+## Entwicklerprotokoll 0.3.7
 
 <div align="justify">
 
-- Ein vollständig neuer nativer arm64-Workflow zur Kristall&shy;struktur&shy;verfeinerung wurde ergänzt. Die Kompa&shy;tibilität mit SHELXL<sup>1</sup>-Semantik und -Anweisungen wird aktiv entwickelt; die Funktion bleibt im Beta-Stadium. Die aktuelle Beta hat Kompi&shy;lierungs&shy;tests mit mehr als 5.000 kristallo&shy;graphischen Fällen bestanden.
-- Ersetzung, Nummerierung, Reihenfolge und Koordinaten der Q-Peaks bei wiederholter Verfeinerung wurden korrigiert. Jede Peak-Liste bleibt dabei an die zugehörige RES-Struktur und Differenzdichtekarte gebunden.
-- Der Zugriff auf Operationen, Details und Periodensystem aus Refine wurde wiederhergestellt. Die optionale externe SHELXL-Anbindung und ihre Einstellungen sind vorübergehend entfernt; der integrierte CRC-2026-Verfeinerungsworkflow bleibt verfügbar.
+- Fo−Fc-Differenzdichtekarten werden bereits beim ersten Laden vorbereitet, wenn passende Reflexionsdaten und unterstützte Modelldaten vorliegen, ohne eine Verfeinerung auszuführen oder die Eingangsstruktur zu verändern. Neue Karten übernehmen keine Konturmetadaten einer älteren Karte mehr.
+- Die Zuordnung von CIF-ADPs und die Orientierung symmetrietransformierter Ellipsoide wurden korrigiert. Die Darstellung aufgeschnittener Ellipsoide und der Differenzdichte-Drahtgitter wurde verbessert.
+- Light/Dark Mode ist über die Oberflächen hinweg vereinheitlicht; der Refine-Editor bietet besseren Kontrast, während die Molekülfarben erhalten bleiben.
+- Refine öffnet und schließt seinen Arbeitsbereich; Fit und Reset lassen die Panel-Anordnung unverändert. Structure Edit ist vorübergehend ausgeblendet. Der integrierte Verfeinerungsworkflow CRC 2026 bleibt im Beta-Stadium.
 
 </div>
 

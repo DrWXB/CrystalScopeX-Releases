@@ -1,15 +1,15 @@
-# CrystalScopeX 0.3.6
+# CrystalScopeX 0.3.7
 
 **English** | [Deutsch](README.de.md)
 
 <p align="center">
-  <a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.6/CrystalScopeX-0.3.6-macOS-arm64.dmg">
+  <a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.7/CrystalScopeX-0.3.7-macOS-arm64.dmg">
     <img src="media/CrystalScopeX-icon.png" alt="CrystalScopeX app icon" width="144">
   </a>
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.6/CrystalScopeX-0.3.6-macOS-arm64.dmg">Download CrystalScopeX 0.3.6 for macOS arm64</a></strong>
+  <strong><a href="https://github.com/DrWXB/CrystalScopeX-Releases/releases/download/v0.3.7/CrystalScopeX-0.3.7-macOS-arm64.dmg">Download CrystalScopeX 0.3.7 for macOS arm64</a></strong>
 </p>
 
 <p align="justify">
@@ -17,7 +17,7 @@ CrystalScopeX brings crystal structures to life in a fluid, visually rich
 scientific workspace. Explore complete crystallo&shy;graphic models in
 inter&shy;active 3D, from small molecules to symmetry-generated components,
 disorder, twinning, and aniso&shy;tropic displacement para&shy;meters. Then
-measure, edit, refine, and shape publication-ready results within one focused
+measure, refine, and shape publication-ready results within one focused
 interface designed to keep ideas moving.
 </p>
 
@@ -25,13 +25,13 @@ interface designed to keep ideas moving.
 
 <div align="justify">
 
-Version **0.3.6 (build 9)** targets arm64 systems running macOS 26.0 or later with Metal support.
+Version **0.3.7 (build 10)** targets arm64 systems running macOS 26.0 or later with Metal support.
 
 </div>
 
 <div align="justify">
 
-Download the DMG from the [v0.3.6 release](https://github.com/DrWXB/CrystalScopeX-Releases/releases/tag/v0.3.6) and verify its [SHA-256 checksum](SHA256SUMS.txt).
+Download the DMG from the [v0.3.7 release](https://github.com/DrWXB/CrystalScopeX-Releases/releases/tag/v0.3.7) and verify its [SHA-256 checksum](SHA256SUMS.txt).
 
 </div>
 
@@ -45,13 +45,14 @@ This build is ad-hoc code-signed, but it is **not Developer ID-signed or notariz
 
 ![CrystalScopeX refinement workspace](media/Demo3_png.png)
 
-## Developer log 0.3.6
+## Developer log 0.3.7
 
 <div align="justify">
 
-- Added an all-new native arm64 crystal-refinement workflow. Compa&shy;tibility with SHELXL<sup>1</sup> semantics and instruc&shy;tions is under active develop&shy;ment; the feature remains in beta. The current beta has passed compi&shy;lation tests across more than 5,000 crystallo&shy;graphic cases.
-- Corrected Q-peak replacement, numbering, ordering, and coordinates across repeated refinement, while keeping each peak list bound to its matching RES structure and difference-density map.
-- Restored Operations, Details, and Periodic Table access from Refine. The optional external SHELXL connection and its settings are temporarily removed; the built-in CRC 2026 refinement workflow remains available.
+- Prepare Fo−Fc difference-density maps on first load when matching reflections and supported model data are available, without running refinement or changing the input structure. Fresh maps no longer reuse contour metadata from an earlier map.
+- Corrected CIF ADP assignment and symmetry-transformed ellipsoid orientation, and refined cutaway ellipsoid and difference-density wireframe presentation.
+- Unified Light/Dark Mode across interface surfaces and improved Refine editor contrast while preserving molecular colors.
+- Refine now toggles its workspace; Fit and Reset keep panel layout stable. Structure Edit is temporarily hidden. The built-in CRC 2026 refinement workflow remains in beta.
 
 </div>
 

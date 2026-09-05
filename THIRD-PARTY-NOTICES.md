@@ -3,6 +3,20 @@
 CrystalScopeX is independently authored software. The CrystalScopeX binary
 does not contain the third-party scientific programs discussed below.
 
+## CifVis publication drawing reference (no incorporated code)
+
+The native cutaway ellipsoid drawing and difference-density line presentation
+were informed by a read-only review of CifVis by Paul Niklas Ruth, commit
+`9e055791d25bbe98c52f32e8ba0ebf80618f26e4`. CifVis is licensed under Mozilla
+Public License 2.0. Its publication drawing conventions are acknowledged here
+as design provenance; no CifVis or Three.js source, shaders, artwork, web view,
+or runtime dependency is incorporated. CrystalScopeX implements the geometry,
+depth masking, CoreGraphics export and Metal line rendering independently.
+
+- Project: [CifVis](https://github.com/Niolon/cifvis)
+- License: [Mozilla Public License 2.0](https://github.com/Niolon/cifvis/blob/9e055791d25bbe98c52f32e8ba0ebf80618f26e4/LICENSE.md)
+- Drawing reference: [Publication drawing](https://github.com/Niolon/cifvis/blob/9e055791d25bbe98c52f32e8ba0ebf80618f26e4/docs/gallery/publication-2d.md)
+
 ## ORCA
 
 CrystalScopeX can act as an independent graphical front end to an ORCA

@@ -1,6 +1,21 @@
 # CrystalScopeX changelog
 
-**Last updated:** 2026-09-03
+**Last updated:** 2026-09-05
+
+## 0.3.7 — 2026-09-05
+
+- Prepare current fixed-model Fo−Fc difference-density maps on first load for
+  supported structures with matching reflection data, without refining or
+  modifying the source model.
+- Keep fresh-map contour levels independent of historical map metadata.
+- Correct CIF ADP assignment and symmetry-transformed ellipsoid orientation.
+- Improve cutaway ellipsoid drawing and difference-density wireframe clarity.
+- Unify Light/Dark Mode and improve Refine editor contrast while preserving
+  molecular colors and the current model.
+- Make Refine toggle its workspace and keep panel layout stable during Fit
+  and Reset. Structure Edit is temporarily hidden.
+- Retain the built-in CRC 2026 beta refinement workflow and the existing
+  INS/RES interoperability. No external scientific engine is bundled.
 
 ## 0.3.6 — 2026-08-31
 

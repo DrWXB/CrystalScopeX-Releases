@@ -10,8 +10,10 @@
 - Keep fresh-map contour levels independent of historical map metadata.
 - Correct CIF ADP assignment and symmetry-transformed ellipsoid orientation.
 - Improve cutaway ellipsoid drawing and difference-density wireframe clarity.
-- Unify Light/Dark Mode and improve Refine editor contrast while preserving
-  molecular colors and the current model.
+- Apply Light/Dark Mode to structure tabs, inspectors, Settings, Help, and
+  native dialogs, including already-open windows when switching modes.
+  Preserve molecular colors, the current model, and white-paper scientific
+  previews while improving Refine editor contrast.
 - Make Refine toggle its workspace and keep panel layout stable during Fit
   and Reset. Structure Edit is temporarily hidden.
 - Retain the built-in CRC 2026 beta refinement workflow and the existing

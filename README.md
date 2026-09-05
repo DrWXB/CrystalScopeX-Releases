@@ -51,7 +51,7 @@ This build is ad-hoc code-signed, but it is **not Developer ID-signed or notariz
 
 - Prepare Fo−Fc difference-density maps on first load when matching reflections and supported model data are available, without running refinement or changing the input structure. Fresh maps no longer reuse contour metadata from an earlier map.
 - Corrected CIF ADP assignment and symmetry-transformed ellipsoid orientation, and refined cutaway ellipsoid and difference-density wireframe presentation.
-- Unified Light/Dark Mode across interface surfaces and improved Refine editor contrast while preserving molecular colors.
+- Light/Dark Mode now follows the same setting across structure tabs, inspectors, Settings, Help, and native dialogs; molecular colors and white-paper scientific previews are preserved.
 - Refine now toggles its workspace; Fit and Reset keep panel layout stable. Structure Edit is temporarily hidden. The built-in CRC 2026 refinement workflow remains in beta.
 
 </div>

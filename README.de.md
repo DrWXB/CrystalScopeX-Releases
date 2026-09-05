@@ -52,7 +52,7 @@ Dieser Build ist ad hoc codesigniert, aber **weder mit einer Developer ID signie
 
 - Fo−Fc-Differenzdichtekarten werden bereits beim ersten Laden vorbereitet, wenn passende Reflexionsdaten und unterstützte Modelldaten vorliegen, ohne eine Verfeinerung auszuführen oder die Eingangsstruktur zu verändern. Neue Karten übernehmen keine Konturmetadaten einer älteren Karte mehr.
 - Die Zuordnung von CIF-ADPs und die Orientierung symmetrietransformierter Ellipsoide wurden korrigiert. Die Darstellung aufgeschnittener Ellipsoide und der Differenzdichte-Drahtgitter wurde verbessert.
-- Light/Dark Mode ist über die Oberflächen hinweg vereinheitlicht; der Refine-Editor bietet besseren Kontrast, während die Molekülfarben erhalten bleiben.
+- Light/Dark Mode folgt derselben Einstellung in Struktur-Tabs, Inspektoren, Einstellungen, Hilfe und nativen Dialogen; Molekülfarben und wissenschaftliche Vorschauen auf weißem Papier bleiben erhalten.
 - Refine öffnet und schließt seinen Arbeitsbereich; Fit und Reset lassen die Panel-Anordnung unverändert. Structure Edit ist vorübergehend ausgeblendet. Der integrierte Verfeinerungsworkflow CRC 2026 bleibt im Beta-Stadium.
 
 </div>
